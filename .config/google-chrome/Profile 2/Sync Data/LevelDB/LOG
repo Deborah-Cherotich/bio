@@ -1,0 +1,21 @@
+2024/02/19-07:08:57.212 dd9 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2024/02/19-07:08:57.213 dd9 Recovering log #23
+2024/02/19-07:08:57.214 dd9 Reusing old log /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/000023.log 
+2024/02/19-07:23:57.009 dcd Level-0 table #27: started
+2024/02/19-07:23:57.015 dcd Level-0 table #27: 105268 bytes OK
+2024/02/19-07:23:57.018 dcd Delete type=0 #23
+2024/02/19-09:02:41.619 dcc Level-0 table #29: started
+2024/02/19-09:02:41.624 dcc Level-0 table #29: 186616 bytes OK
+2024/02/19-09:02:41.628 dcc Delete type=0 #26
+2024/02/19-09:02:41.628 dcc Compacting 4@0 + 1@1 files
+2024/02/19-09:02:41.633 dcc Generated table #30@0: 97 keys, 22272 bytes
+2024/02/19-09:02:41.633 dcc Compacted 4@0 + 1@1 files => 22272 bytes
+2024/02/19-09:02:41.636 dcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/19-09:02:41.637 dcc Delete type=2 #27
+2024/02/19-09:02:41.637 dcc Delete type=2 #29
+2024/02/19-09:02:41.637 dcc Delete type=2 #19
+2024/02/19-09:02:41.637 dcc Delete type=2 #21
+2024/02/19-09:02:41.637 dcc Delete type=2 #24
+2024/02/19-09:46:45.939 dcd Level-0 table #32: started
+2024/02/19-09:46:45.943 dcd Level-0 table #32: 110745 bytes OK
+2024/02/19-09:46:45.947 dcd Delete type=0 #28

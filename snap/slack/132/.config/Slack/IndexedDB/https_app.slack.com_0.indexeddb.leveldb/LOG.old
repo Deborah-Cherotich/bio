@@ -1,0 +1,33 @@
+2024/02/19-09:02:06.602 19a1 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-09:02:06.602 19a1 Recovering log #7
+2024/02/19-09:02:06.603 19a1 Reusing old log /home/student/snap/slack/132/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000007.log 
+2024/02/19-10:17:19.733 19a1 Level-0 table #11: started
+2024/02/19-10:17:19.736 19a1 Level-0 table #11: 6032 bytes OK
+2024/02/19-10:17:19.740 19a1 Delete type=0 #7
+2024/02/19-10:17:19.740 19a1 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x01\x02\x01\x01\x000' @ 1086 : 1
+2024/02/19-10:17:19.740 19a1 Compacting 1@0 + 1@1 files
+2024/02/19-10:17:19.743 19a1 Generated table #12@0: 203 keys, 5185 bytes
+2024/02/19-10:17:19.743 19a1 Compacted 1@0 + 1@1 files => 5185 bytes
+2024/02/19-10:17:19.746 19a1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/19-10:17:19.746 19a1 Delete type=2 #11
+2024/02/19-10:17:19.746 19a1 Manual compaction at level-0 from '\x00\x08\x01\x02\x01\x01\x000' @ 1086 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/19-10:17:19.747 19a1 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x01\x02\x01\x01\x000' @ 1086 : 1
+2024/02/19-10:17:19.747 19a1 Compacting 1@1 + 1@2 files
+2024/02/19-10:17:19.749 19a1 Generated table #13@1: 89 keys, 3853 bytes
+2024/02/19-10:17:19.749 19a1 Compacted 1@1 + 1@2 files => 3853 bytes
+2024/02/19-10:17:19.752 19a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/19-10:17:19.753 19a1 Delete type=2 #12
+2024/02/19-10:17:19.753 19a1 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x01\x000' @ 1086 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/19-10:17:19.803 19b7 Level-0 table #15: started
+2024/02/19-10:17:19.805 19b7 Level-0 table #15: 934 bytes OK
+2024/02/19-10:17:19.809 19b7 Delete type=2 #5
+2024/02/19-10:17:19.809 19b7 Delete type=0 #10
+2024/02/19-10:17:19.809 19b7 Delete type=2 #8
+2024/02/19-10:17:19.809 19a1 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/19-10:17:19.809 19a1 Manual compaction at level-1 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x01\x02\x01\x19\x00s\x00y\x00n\x00c\x00e\x00r\x00.\x00T\x00h\x00r\x00e\x00a\x00d\x00/\x00T\x00V\x00Z\x009\x00A\x00A\x00C\x00p\x00T\x00U\x00B' @ 1148 : 0
+2024/02/19-10:17:19.809 19a1 Compacting 1@1 + 1@2 files
+2024/02/19-10:17:19.812 19a1 Generated table #16@1: 66 keys, 1328 bytes
+2024/02/19-10:17:19.812 19a1 Compacted 1@1 + 1@2 files => 1328 bytes
+2024/02/19-10:17:19.815 19a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/19-10:17:19.816 19a1 Delete type=2 #15
+2024/02/19-10:17:19.816 19a1 Manual compaction at level-1 from '\x00\x07\x01\x02\x01\x19\x00s\x00y\x00n\x00c\x00e\x00r\x00.\x00T\x00h\x00r\x00e\x00a\x00d\x00/\x00T\x00V\x00Z\x009\x00A\x00A\x00C\x00p\x00T\x00U\x00B' @ 1148 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

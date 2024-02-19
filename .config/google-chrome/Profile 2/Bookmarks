@@ -1,0 +1,59 @@
+{
+   "checksum": "7bde549d45c87b7f985f85f70a3664a7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13350987153198459",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13351061836367659",
+            "date_last_used": "0",
+            "guid": "e4c40265-8d36-4d17-92b2-9875332820cc",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "how to set up goals - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=how+to+set+up+goals&oq=how+to+set+up+goals+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDk2MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13351235832320262",
+            "date_last_used": "0",
+            "guid": "8f170651-6451-489a-8922-df28929e3e79",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13350987153198463",
+         "date_last_used": "0",
+         "date_modified": "13351235832320262",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350987153198465",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCcPONGqsEQYAEcPONGqsEQYAKcNANmqsEQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgK0wZawRBgARgK0wZawRBgApFM00aqwRBgAwgNvCqca1hAMSACoYN3hSb1VJZUdyTmpLVVZxNiszS0Uxdz09SAMS6wEIBRLmAQocZGhzK2x5MnAvNElQd1RRaklvSno5QzVPczlnPRJmWjpBRHF0QVp4YVpJNGoyUWtnSHkwWHBqMVMyOEhnS3NJTk9zWFFJVkdaeFgxWkZDcDNxeFovRFlXNHBTMlVYall1YVJVMlkyRUR6Y0hZTUdEenBVTng2dTJFRTdYaU5XWUcwZz09GAAgACgAMJPU9M2ghIQDONDU18TVMUDQ1NfE1TFKHFhYQlB1T1Z4Z1pDV2VQVnQxMk9EcGRlNEpoQT1aHiIcc3B0QUFSNGs5d0lRSzY5RzYzdTdLdGpURXdZPWUQMP/kEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeUZ4d1gxQUVLZWNXY1B1VUJYdDh5YWUzTmYvMUdtYitHRllTRFJxZDNkQjVrSmQwM2JxWEp2bW5TTnpHUmd2ekxEQlJXbk9XeldsQ1haU0YrM0ZQY2gwbjQ4RXc9PRgAIAAoADCMu5LYi4KEAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaejZXSExydmRHTEpCWm1YSllOaXhPUkVkMytGaVprQjlRTGZOd09heWk0eVEwbzVyWFVsNXFRbXdHQzVtV0Nvb1FBZEExZBgAIAAoADCMu5LYi4KEAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAYS5wEKHDRCYnA4UjIxWHNJdnNqQzhpdWNMWjh5Mjl6dz0SZlo6QURxdEFaeGFaSTRqMlFrZ0h5MFhwajFTMjhIZzFBTXJNZlhIZEhERzFsZS8zZWhVNENMVjE0R2wvWjVPSVNKVEZOSGpEVW5hT1hydXZBaFhoNXYzWjY5VXkzZW01MlBRR1E9PRgAIAAoADCU5NTlqImEAziAxNOX1jFAgMTTl9YxShxwY3ZzQjRpUGdpdWV3RStUU3AvcTNNOHJqSG89Wh8iHblsMHZQekhHUXlzNzJnckFOUnJpc0hhNS9XWWM9ZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5L1pweEJUVklrcEUyaFJEZVRGTkVhc3c4S21rNG0wSUpHV3huSW9XVFlRelBOTnNUMktVSXd1MDF3T1RGTkpPN1ZFd2I0bi9DUHIwRi9UcjVQMitWVEJVU0hxQT09GAAgACgAMIy7ktiLgoQDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

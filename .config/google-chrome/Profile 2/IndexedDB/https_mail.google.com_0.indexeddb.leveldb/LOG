@@ -1,0 +1,6 @@
+2024/02/19-09:00:16.702 dcc Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-09:00:16.702 dcc Recovering log #3
+2024/02/19-09:00:16.715 dcc Reusing old log /home/student/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/02/19-09:00:19.161 dcc Level-0 table #5: started
+2024/02/19-09:00:19.180 dcc Level-0 table #5: 2599315 bytes OK
+2024/02/19-09:00:19.185 dcc Delete type=0 #3

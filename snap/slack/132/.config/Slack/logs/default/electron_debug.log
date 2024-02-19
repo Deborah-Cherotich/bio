@@ -1,0 +1,262 @@
+[3369:0708/125718.842161:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[3369:0708/125718.914428:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.117" (uid=1000 pid=3369 comm="/snap/slack/82/usr/lib/slack/slack --no-sandbox --" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=811 comm="/lib/systemd/systemd-logind " label="unconfined")
+[3369:0708/125721.026668:ERROR:nss_util.cc(55)] Failed to create /home/student/.pki/nssdb directory.
+[3192:0129/125609.038834:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[3192:0129/125609.105263:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.129" (uid=1000 pid=3192 comm="/snap/slack/130/usr/lib/slack/slack --no-sandbox -" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=862 comm="/lib/systemd/systemd-logind " label="unconfined")
+[3192:0129/125609.326569:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/student/.pki/nssdb): NSS error code: -8174
+[3245:0129/125643.846464:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 189
+[3245:0129/125643.846666:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 191
+[3245:0129/125643.846709:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 193
+[3192:0129/133436.378747:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 1960
+
+
+[3192:0129/133436.397283:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 2105
+
+
+[3192:0129/143802.703027:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 3459
+
+
+[3192:0129/143802.721570:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 3604
+
+
+[3192:0129/145142.538695:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 4645
+
+
+[3192:0129/145142.556497:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 4790
+
+
+[3192:0129/150130.396337:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 5790
+
+
+[3192:0129/150130.417647:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 5935
+
+
+[3192:0129/151818.956598:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 6977
+
+
+[3192:0129/151818.975076:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 7122
+
+
+[3192:0129/153602.164223:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 8128
+
+
+[3192:0129/153602.182399:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.148
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 8273
+
+
+[3342:0219/070739.099097:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[3342:0219/070739.159091:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.125" (uid=1000 pid=3342 comm="/snap/slack/132/usr/lib/slack/slack --no-sandbox -" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=878 comm="/lib/systemd/systemd-logind " label="unconfined")
+[3342:0219/070739.376167:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/student/.pki/nssdb): NSS error code: -8174
+[3391:0219/070744.862016:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 31
+[3391:0219/070744.877647:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 43
+[3391:0219/070744.878987:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 41
+[3391:0219/070745.135196:WARNING:spdy_session.cc(2976)] Received HEADERS for invalid stream 53
+[3342:0219/072326.722658:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 2828
+
+
+[3342:0219/072326.741895:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 2971
+
+
+[3342:0219/074813.052360:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 3991
+
+
+[3342:0219/074813.075137:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 4134
+
+
+[3342:0219/080246.850916:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 5142
+
+
+[3342:0219/080246.873449:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 5283
+
+
+[3342:0219/081709.679449:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 6313
+
+
+[3342:0219/081709.701089:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 6455
+
+
+[3342:0219/083308.727207:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 7462
+
+
+[3342:0219/083308.746333:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 7604
+
+
+[3342:0219/084934.121185:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 8629
+
+
+[3342:0219/084934.144255:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 8770
+
+
+[5905:0219/085919.412159:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[5905:0219/085919.476027:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.163" (uid=1000 pid=5905 comm="/snap/slack/132/usr/lib/slack/slack --no-sandbox -" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=878 comm="/lib/systemd/systemd-logind " label="unconfined")
+[5905:0219/085919.686539:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/student/.pki/nssdb): NSS error code: -8174
+[6555:0219/090205.669874:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[6555:0219/090205.733888:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.165" (uid=1000 pid=6555 comm="/snap/slack/132/usr/lib/slack/slack --no-sandbox -" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=878 comm="/lib/systemd/systemd-logind " label="unconfined")
+[6555:0219/090206.384744:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/student/.pki/nssdb): NSS error code: -8174
+[6555:0219/092313.097593:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.218
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 10007
+
+
+[6555:0219/092313.115339:WARNING:exported_object.cc(247)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.218
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.38
+serial: 10146
+
+
+[6555:0219/093435.623522:ERROR:gpu_process_host.cc(993)] GPU process exited unexpectedly: exit_code=512
+[6555:0219/093435.623581:WARNING:gpu_process_host.cc(1363)] The GPU process has crashed 1 time(s)
+[6555:0219/093435.696029:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 69 ms
+[9938:0219/101824.133744:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[9938:0219/101824.196982:ERROR:object_proxy.cc(577)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.189" (uid=1000 pid=9938 comm="/snap/slack/132/usr/lib/slack/slack --no-sandbox -" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=878 comm="/lib/systemd/systemd-logind " label="unconfined")
+[9938:0219/101824.397459:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/student/.pki/nssdb): NSS error code: -8174

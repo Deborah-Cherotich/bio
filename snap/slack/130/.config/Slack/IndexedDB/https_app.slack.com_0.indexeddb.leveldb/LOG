@@ -1,0 +1,4 @@
+2024/01/29-14:19:34.380 c7e Reusing MANIFEST /home/student/snap/slack/130/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-14:19:34.381 c7e Recovering log #3
+2024/01/29-14:19:34.382 c7e Reusing old log /home/student/snap/slack/130/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
+2024/01/29-14:19:37.912 c95 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

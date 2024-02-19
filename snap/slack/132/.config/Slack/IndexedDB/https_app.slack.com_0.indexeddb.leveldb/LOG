@@ -1,0 +1,4 @@
+2024/02/19-10:18:25.062 26d9 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-10:18:25.062 26d9 Recovering log #14
+2024/02/19-10:18:25.062 26d9 Reusing old log /home/student/snap/slack/132/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000014.log 
+2024/02/19-10:18:25.062 26d9 Delete type=2 #13

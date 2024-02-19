@@ -1,0 +1,76 @@
+{
+   "checksum": "ba42222e79a08402cc278c91e22aa172",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13333289897607037",
+         "date_last_used": "0",
+         "date_modified": "13333289912320257",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13350983715493518",
+               "date_last_used": "13350983888227910",
+               "guid": "8c65d87f-f218-4c32-abe6-d11520ecf458",
+               "id": "5",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Save a Laptop from Liquid Damage: 14 Steps (with Pictures)",
+               "type": "url",
+               "url": "https://www.wikihow.com/Save-a-Laptop-from-Liquid-Damage"
+            }, {
+               "children": [ {
+                  "date_added": "13350984593894951",
+                  "date_last_used": "0",
+                  "guid": "1f1d5c7e-69b8-4294-a5d7-04f0c70e3134",
+                  "id": "7",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Keyboard Shortcuts for Ubuntu | Set - 1 - GeeksforGeeks",
+                  "type": "url",
+                  "url": "https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/"
+               } ],
+               "date_added": "13350984630712385",
+               "date_last_used": "0",
+               "date_modified": "13350984630712458",
+               "guid": "12763a79-f4de-4a32-a059-0159abe0d091",
+               "id": "8",
+               "name": "keyboard shortcut",
+               "type": "folder"
+            } ],
+            "date_added": "13350983746720371",
+            "date_last_used": "0",
+            "date_modified": "13350984593894951",
+            "guid": "bb5121ea-7964-4376-ba5a-a0b6d334a04a",
+            "id": "6",
+            "name": "taking care of a loptop",
+            "type": "folder"
+         } ],
+         "date_added": "13333289897607038",
+         "date_last_used": "0",
+         "date_modified": "13350983715493518",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13333289897607039",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

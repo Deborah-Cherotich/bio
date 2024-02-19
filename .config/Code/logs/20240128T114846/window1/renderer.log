@@ -1,0 +1,4 @@
+2024-01-28 11:48:46.998 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-28 11:48:47.259 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student/.vscode/extensions
+2024-01-28 11:48:47.517 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student/.vscode/extensions
+2024-01-28 11:48:50.137 [info] [perf] Render performance baseline is 21ms

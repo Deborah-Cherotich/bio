@@ -1,0 +1,15 @@
+2024/02/19-09:00:00.627 dcc Creating DB /home/student/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/02/19-09:00:00.634 dcc Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-09:05:22.626 dcd Level-0 table #5: started
+2024/02/19-09:05:22.643 dcd Level-0 table #5: 1597797 bytes OK
+2024/02/19-09:05:22.647 dcd Delete type=0 #3
+2024/02/19-09:05:22.687 dcd Level-0 table #7: started
+2024/02/19-09:05:22.705 dcd Level-0 table #7: 1762279 bytes OK
+2024/02/19-09:05:22.713 dcd Delete type=0 #4
+2024/02/19-09:05:48.322 dcd Compacting 1@1 + 1@2 files
+2024/02/19-09:05:48.348 dcd Generated table #8@1: 11626 keys, 2136548 bytes
+2024/02/19-09:05:48.363 dcd Generated table #9@1: 4416 keys, 1149850 bytes
+2024/02/19-09:05:48.363 dcd Compacted 1@1 + 1@2 files => 3286398 bytes
+2024/02/19-09:05:48.369 dcd compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/19-09:05:48.369 dcd Delete type=2 #5
+2024/02/19-09:05:48.369 dcd Delete type=2 #7

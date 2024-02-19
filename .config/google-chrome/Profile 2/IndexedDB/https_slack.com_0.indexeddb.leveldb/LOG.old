@@ -1,0 +1,7 @@
+2024/01/29-14:03:10.747 2079 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-14:03:10.747 2079 Recovering log #3
+2024/01/29-14:03:10.748 2079 Reusing old log /home/student/.config/google-chrome/Profile 2/IndexedDB/https_slack.com_0.indexeddb.leveldb/000003.log 
+2024/01/29-14:18:10.948 2079 Level-0 table #5: started
+2024/01/29-14:18:10.951 2079 Level-0 table #5: 785 bytes OK
+2024/01/29-14:18:10.955 2079 Delete type=0 #3
+2024/01/29-14:18:10.955 2079 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
