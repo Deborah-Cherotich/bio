@@ -1,13 +1,19 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.gedit.desktop" score="0" last-seen="1708325992"/>
-    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1708327124"/>
-    <application id="google-chrome.desktop" score="21803" last-seen="1708327549"/>
-    <application id="org.gnome.Terminal.desktop" score="40" last-seen="1708327618"/>
-    <application id="code.desktop" score="140" last-seen="1708327406"/>
-    <application id="slack_slack.desktop" score="296" last-seen="1708327122"/>
-    <application id="gnome-control-center.desktop" score="2" last-seen="1708310320"/>
-    <application id="firefox_firefox.desktop" score="0" last-seen="1708327129"/>
+    <application id="org.gnome.Evince.desktop" score="0" last-seen="1708409030"/>
+    <application id="org.gnome.eog.desktop" score="4.5" last-seen="1708361962"/>
+    <application id="org.gnome.Nautilus.desktop" score="20.5" last-seen="1708496570"/>
+    <application id="google-chrome.desktop" score="15244" last-seen="1708497362"/>
+    <application id="org.gnome.Terminal.desktop" score="391.5" last-seen="1708494851"/>
+    <application id="org.gnome.gedit.desktop" score="7" last-seen="1708491712"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1708409008"/>
+    <application id="libreoffice-writer.desktop" score="1" last-seen="1708409036"/>
+    <application id="code.desktop" score="566" last-seen="1708497352"/>
+    <application id="firefox_firefox.desktop" score="112.5" last-seen="1708359445"/>
+    <application id="slack_slack.desktop" score="647.5" last-seen="1708496792"/>
+    <application id="gnome-control-center.desktop" score="11" last-seen="1708496767"/>
+    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+    <application id="intellij-idea-community.desktop" score="2103" last-seen="1708491724"/>
   </context>
 </application-state>

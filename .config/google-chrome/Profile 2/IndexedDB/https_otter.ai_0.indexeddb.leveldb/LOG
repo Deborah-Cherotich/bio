@@ -1,0 +1,6 @@
+2024/02/19-16:15:27.216 976 Creating DB /home/student/.config/google-chrome/Profile 2/IndexedDB/https_otter.ai_0.indexeddb.leveldb since it was missing.
+2024/02/19-16:15:27.224 976 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_otter.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-16:15:29.384 977 Level-0 table #5: started
+2024/02/19-16:15:29.388 977 Level-0 table #5: 3851 bytes OK
+2024/02/19-16:15:29.392 977 Delete type=0 #3
+2024/02/19-16:15:29.392 977 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

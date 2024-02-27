@@ -1,6 +1,21 @@
-2024/02/19-09:02:05.573 19a1 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2024/02/19-09:02:05.574 19a1 Recovering log #4
-2024/02/19-09:02:05.574 19a1 Reusing old log /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/000004.log 
-2024/02/19-09:59:05.881 19a2 Level-0 table #8: started
-2024/02/19-09:59:05.886 19a2 Level-0 table #8: 12403 bytes OK
-2024/02/19-09:59:05.889 19a2 Delete type=0 #4
+2024/02/20-17:07:48.972 c49 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/02/20-17:07:48.973 c49 Recovering log #21
+2024/02/20-17:07:48.973 c49 Reusing old log /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/000021.log 
+2024/02/20-17:08:49.358 c4a Level-0 table #25: started
+2024/02/20-17:08:49.362 c4a Level-0 table #25: 21020 bytes OK
+2024/02/20-17:08:49.366 c4a Delete type=0 #21
+2024/02/20-19:43:49.358 c4a Level-0 table #27: started
+2024/02/20-19:43:49.362 c4a Level-0 table #27: 19829 bytes OK
+2024/02/20-19:43:49.365 c4a Delete type=0 #24
+2024/02/20-21:59:45.523 c4a Level-0 table #29: started
+2024/02/20-21:59:45.528 c4a Level-0 table #29: 19207 bytes OK
+2024/02/20-21:59:45.532 c4a Delete type=0 #26
+2024/02/20-21:59:45.532 c4a Compacting 4@0 + 1@1 files
+2024/02/20-21:59:45.536 c4a Generated table #30@0: 27 keys, 6102 bytes
+2024/02/20-21:59:45.536 c4a Compacted 4@0 + 1@1 files => 6102 bytes
+2024/02/20-21:59:45.540 c4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/20-21:59:45.540 c4a Delete type=2 #27
+2024/02/20-21:59:45.540 c4a Delete type=2 #29
+2024/02/20-21:59:45.541 c4a Delete type=2 #19
+2024/02/20-21:59:45.541 c4a Delete type=2 #22
+2024/02/20-21:59:45.541 c4a Delete type=2 #25

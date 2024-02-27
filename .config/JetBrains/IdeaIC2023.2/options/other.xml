@@ -1,0 +1,65 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "NewKotlinWizard.buildSystem.type": "Jps",
+    "NewKotlinWizard.structure.groupId": "me.student",
+    "NextRunPlatformUpdateBuild": "IC-232.10300.40",
+    "NextRunPlatformUpdateVersion": "2023.2.6",
+    "appcds.runOnSecondStart": "IC-232.10227.8-c6586c8d37fa5a78770c27b628fd679a714a93dadd873b9243ad91341cb18307",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-232.10227.8",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Kotlin",
+    "defaultJdkConfigured": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "232.10227.8",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-232.10227.8",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "232-1.9.0-IJ10227.8",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin.lastUpdateCheck": "1708438800569",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IC-232.10227.8",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Rename": 1708486713441
+  },
+  "proposedTips": {
+    "Rename": 1708486713308
+  },
+  "tipsOrderSeed": 1708486713287
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Functions-history" project-path="$USER_HOME$/IdeaProjects/Functions" last-access-time="1708444822114" />
+      <command-history-file filename="ASSIGNMENT2-kt-history" project-path="$USER_HOME$/IdeaProjects/ASSIGNMENT2-kt" last-access-time="1708491439598" />
+      <command-history-file filename="Assignment-history" project-path="$USER_HOME$/IdeaProjects/Assignment" last-access-time="1708489414784" />
+    </command-history-files>
+  </component>
+</application>

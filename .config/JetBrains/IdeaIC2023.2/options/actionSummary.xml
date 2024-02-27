@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="4" l="1708446661442" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1708447697052" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="930" l="1708491380296" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="49" l="1708489391028" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1708447446655" />
+    </e>
+    <e n="EditorDelete">
+      <i c="12" l="1708440648209" />
+    </e>
+    <e n="EditorDown">
+      <i c="9" l="1708488118075" />
+    </e>
+    <e n="EditorEnter">
+      <i c="124" l="1708489389002" />
+    </e>
+    <e n="EditorLeft">
+      <i c="112" l="1708489392046" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1708491422667" />
+    </e>
+    <e n="EditorRight">
+      <i c="237" l="1708489291479" />
+    </e>
+    <e n="EditorUp">
+      <i c="12" l="1708489030356" />
+    </e>
+    <e n="NewProject">
+      <i c="4" l="1708491331389" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1708488083493" />
+    </e>
+    <e n="Run">
+      <i c="11" l="1708447701985" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1708438431759" />
+    </e>
+    <e n="com.intellij.execution.actions.ClearConsoleAction">
+      <i c="1" l="1708439282234" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="8" l="1708491432181" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1708444817484" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1708491439570" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1708491323660" />
+    </e>
+    <e n="com.intellij.terminal.actions.TerminalActionWrapper">
+      <i c="3" l="1708491670772" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1708456622903" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1708457188712" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="3" l="1708438567210" />
+    </e>
+  </component>
+</application>

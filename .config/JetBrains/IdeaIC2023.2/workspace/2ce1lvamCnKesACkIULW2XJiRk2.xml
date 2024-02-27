@@ -1,0 +1,138 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Assignment" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="2" lastUsed="1708486707790" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="2" lastUsage="1708486707792" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/student/IdeaProjects/Assignment}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/student/IdeaProjects/Assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/student/IdeaProjects/Assignment/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Kotlin.MainKt" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/src/main/kotlin" commandHistoryFileName="Assignment-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2505417" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3300095" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3300095" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300095" left="0.2505417" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1764" height="305" key="GridCell.Tab.0.bottom" timestamp="1708489414650">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.bottom/74.27.1846.1053@74.27.1846.1053" timestamp="1708489414650" />
+    <state width="1764" height="305" key="GridCell.Tab.0.center" timestamp="1708489414650">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.center/74.27.1846.1053@74.27.1846.1053" timestamp="1708489414650" />
+    <state width="1764" height="305" key="GridCell.Tab.0.left" timestamp="1708489414650">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.left/74.27.1846.1053@74.27.1846.1053" timestamp="1708489414650" />
+    <state width="1764" height="305" key="GridCell.Tab.0.right" timestamp="1708489414650">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.right/74.27.1846.1053@74.27.1846.1053" timestamp="1708489414650" />
+    <state x="597" y="253" key="new project wizard" timestamp="1708491364824">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="597" y="253" key="new project wizard/74.27.1846.1053@74.27.1846.1053" timestamp="1708491364824" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

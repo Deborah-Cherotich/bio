@@ -1,0 +1,6 @@
+2024/02/19-09:02:35.950 dcc Creating DB /home/student/.config/google-chrome/Profile 2/IndexedDB/https_app.slack.com_0.indexeddb.leveldb since it was missing.
+2024/02/19-09:02:35.958 dcc Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-10:17:40.491 dcd Level-0 table #5: started
+2024/02/19-10:17:40.493 dcd Level-0 table #5: 8194 bytes OK
+2024/02/19-10:17:40.497 dcd Delete type=0 #3
+2024/02/19-10:17:40.498 dcd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

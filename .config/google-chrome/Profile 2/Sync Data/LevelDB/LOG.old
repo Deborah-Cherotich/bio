@@ -1,3 +1,9 @@
-2024/02/19-06:45:36.537 a08 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
-2024/02/19-06:45:36.537 a08 Recovering log #23
-2024/02/19-06:45:36.538 a08 Reusing old log /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/000023.log 
+2024/02/20-17:04:48.923 99f Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2024/02/20-17:04:48.924 99f Recovering log #59
+2024/02/20-17:04:48.927 99f Reusing old log /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/000059.log 
+2024/02/20-20:06:58.689 9a0 Level-0 table #64: started
+2024/02/20-20:06:58.695 9a0 Level-0 table #64: 90111 bytes OK
+2024/02/20-20:06:58.698 9a0 Delete type=0 #59
+2024/02/20-22:46:45.313 9dc Level-0 table #66: started
+2024/02/20-22:46:45.319 9dc Level-0 table #66: 94810 bytes OK
+2024/02/20-22:46:45.322 9dc Delete type=0 #63

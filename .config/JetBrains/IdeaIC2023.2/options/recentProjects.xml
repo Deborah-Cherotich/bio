@@ -1,0 +1,72 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Functions">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Functions – Main.kt" projectWorkspaceId="2cdQ1TovMXDsrP3AfJTVU2sextu">
+              <option name="activationTimestamp" value="1708457255131" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10227.8" />
+              <option name="buildTimestamp" value="1699506047238" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="297" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1708438769944" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Kotlin Assignment">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Kotlin Assignment – ~/IdeaProjects/Functions/src/main/kotlin/Main.kt" projectWorkspaceId="2ce1UaWTSi6TPM412uptaW7xRgi">
+              <option name="activationTimestamp" value="1708457387787" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10227.8" />
+              <option name="buildTimestamp" value="1699506047238" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="74" y="27" width="1846" height="1053" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1708457255336" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Assignment">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2ce1lvamCnKesACkIULW2XJiRk2">
+              <option name="activationTimestamp" value="1708491372713" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10227.8" />
+              <option name="buildTimestamp" value="1699506047238" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1708457387894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ASSIGNMENT2-kt">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2cf8e9J5qqecjr2iE7dGjRg6DzI">
+              <option name="activationTimestamp" value="1708491662100" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10227.8" />
+              <option name="buildTimestamp" value="1699506023639" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1708491372854" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/ASSIGNMENT2-kt" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

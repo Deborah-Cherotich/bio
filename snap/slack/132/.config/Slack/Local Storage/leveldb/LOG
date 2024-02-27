@@ -1,3 +1,9 @@
-2024/02/19-10:18:24.046 26d8 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2024/02/19-10:18:24.046 26d8 Recovering log #7
-2024/02/19-10:18:24.046 26d8 Reusing old log /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/000007.log 
+2024/02/21-08:37:24.498 1844 Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/02/21-08:37:24.499 1844 Recovering log #28
+2024/02/21-08:37:24.499 1844 Reusing old log /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/000028.log 
+2024/02/21-08:41:24.880 1845 Level-0 table #33: started
+2024/02/21-08:41:24.884 1845 Level-0 table #33: 21212 bytes OK
+2024/02/21-08:41:24.888 1845 Delete type=0 #28
+2024/02/21-08:50:24.903 1845 Level-0 table #35: started
+2024/02/21-08:50:24.907 1845 Level-0 table #35: 21249 bytes OK
+2024/02/21-08:50:24.911 1845 Delete type=0 #32

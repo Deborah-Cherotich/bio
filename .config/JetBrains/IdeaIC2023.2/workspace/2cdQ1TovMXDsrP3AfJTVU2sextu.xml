@@ -1,0 +1,175 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Functions" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="51" column="2" selection-start-line="49" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="1" lastUsed="1708438771214" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1708438771215" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/student/IdeaProjects/Functions}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Open Files'; set:Open Files; class com.intellij.openapi.fileEditor.impl.OpenFilesScope">
+          <expand>
+            <path>
+              <item name="Functions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Functions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Functions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Functions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Functions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Functions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Functions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Functions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kotlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Kotlin.MainKt" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Functions-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2505417" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3300095" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3300095" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3300095" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3300095" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300095" left="0.2505417" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Services</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1764" height="305" key="GridCell.Tab.0.bottom" timestamp="1708457255122">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.bottom/74.27.1846.1053@74.27.1846.1053" timestamp="1708457255122" />
+    <state width="1764" height="305" key="GridCell.Tab.0.center" timestamp="1708457255121">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.center/74.27.1846.1053@74.27.1846.1053" timestamp="1708457255121" />
+    <state width="1764" height="305" key="GridCell.Tab.0.left" timestamp="1708457255121">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.left/74.27.1846.1053@74.27.1846.1053" timestamp="1708457255121" />
+    <state width="1764" height="305" key="GridCell.Tab.0.right" timestamp="1708457255121">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1764" height="305" key="GridCell.Tab.0.right/74.27.1846.1053@74.27.1846.1053" timestamp="1708457255121" />
+    <state x="597" y="253" key="new project wizard" timestamp="1708457246103">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="597" y="253" key="new project wizard/74.27.1846.1053@74.27.1846.1053" timestamp="1708457246103" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="51" column="2" selection-start-line="49" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

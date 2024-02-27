@@ -1,6 +1,21 @@
-2024/02/19-07:08:57.267 4 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Session Storage/MANIFEST-000001
-2024/02/19-07:08:57.268 4 Recovering log #14
-2024/02/19-07:08:57.268 4 Reusing old log /home/student/.config/google-chrome/Profile 2/Session Storage/000014.log 
-2024/02/19-08:59:59.999 6 Level-0 table #19: started
-2024/02/19-09:00:00.004 6 Level-0 table #19: 84289 bytes OK
-2024/02/19-09:00:00.009 6 Delete type=0 #14
+2024/02/21-06:39:34.697 4 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Session Storage/MANIFEST-000001
+2024/02/21-06:39:34.700 4 Recovering log #40
+2024/02/21-06:39:34.702 4 Reusing old log /home/student/.config/google-chrome/Profile 2/Session Storage/000040.log 
+2024/02/21-07:45:04.490 6 Level-0 table #44: started
+2024/02/21-07:45:04.494 6 Level-0 table #44: 14887 bytes OK
+2024/02/21-07:45:04.498 6 Delete type=0 #40
+2024/02/21-08:58:32.149 6 Level-0 table #46: started
+2024/02/21-08:58:32.155 6 Level-0 table #46: 166003 bytes OK
+2024/02/21-08:58:32.195 6 Delete type=0 #43
+2024/02/21-09:00:00.563 6 Level-0 table #48: started
+2024/02/21-09:00:00.568 6 Level-0 table #48: 50870 bytes OK
+2024/02/21-09:00:00.573 6 Delete type=0 #45
+2024/02/21-09:00:00.573 6 Compacting 4@0 + 1@1 files
+2024/02/21-09:00:00.582 6 Generated table #49@0: 2057 keys, 262584 bytes
+2024/02/21-09:00:00.583 6 Compacted 4@0 + 1@1 files => 262584 bytes
+2024/02/21-09:00:00.588 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/21-09:00:00.590 6 Delete type=2 #48
+2024/02/21-09:00:00.590 6 Delete type=2 #44
+2024/02/21-09:00:00.590 6 Delete type=2 #41
+2024/02/21-09:00:00.590 6 Delete type=2 #46
+2024/02/21-09:00:00.591 6 Delete type=2 #38

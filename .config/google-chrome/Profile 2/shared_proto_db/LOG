@@ -1,6 +1,3 @@
-2024/02/19-07:08:57.278 dda Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/shared_proto_db/MANIFEST-000001
-2024/02/19-07:08:57.278 dda Recovering log #7
-2024/02/19-07:08:57.279 dda Reusing old log /home/student/.config/google-chrome/Profile 2/shared_proto_db/000007.log 
-2024/02/19-07:09:06.871 dcd Level-0 table #11: started
-2024/02/19-07:09:06.877 dcd Level-0 table #11: 228635 bytes OK
-2024/02/19-07:09:06.880 dcd Delete type=0 #7
+2024/02/21-06:39:34.503 ad2 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/shared_proto_db/MANIFEST-000001
+2024/02/21-06:39:34.504 ad2 Recovering log #13
+2024/02/21-06:39:34.505 ad2 Reusing old log /home/student/.config/google-chrome/Profile 2/shared_proto_db/000013.log 

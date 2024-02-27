@@ -92,10 +92,10 @@ UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/focal-updates/main/
 
 Dist: jammy
 Name: Jammy Jellyfish
-Version: 22.04.2 LTS
+Version: 22.04.3 LTS
 Date: Thu, 21 April 2022 22:04:00 UTC
 Supported: 1
-Description: This is the 22.04.2 LTS release
+Description: This is the 22.04.3 LTS release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/Release
 ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
